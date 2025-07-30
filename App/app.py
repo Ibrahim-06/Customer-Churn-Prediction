@@ -9,6 +9,7 @@ feature_cols = joblib.load("Features/features.pkl")
 
 st.set_page_config(page_title="Churn Prediction App", layout="wide")
 
+
 st.markdown("""
 <style>
 header {visibility: hidden;}
