@@ -1,7 +1,15 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import joblib
+import subprocess
+import sys
+
+try:
+    import joblib
+except ModuleNotFoundError:
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "joblib"])
+    import joblib
+
 
 model = joblib.load("../Model/Logistic_model.pkl")
 scaler = joblib.load("../Scaler/Scaler.pkl")
