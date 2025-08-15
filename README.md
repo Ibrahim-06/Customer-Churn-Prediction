@@ -87,7 +87,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run Jupyter Notebook (for training and analysis)
 ```bash
-jupyter notebook Notebook/churn_analysis.ipynb
+jupyter notebook Notebook/Churn_Analysis.ipynb
 ```
 
 ### 4️⃣ Run Streamlit App
