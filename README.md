@@ -119,7 +119,6 @@ streamlit run App/app.py
 - **features.pkl** → List of feature names after preprocessing
 
 ---
-<img width="3770" height="2122" alt="Streamlit" src="https://github.com/user-attachments/assets/c9cc5baf-a7d6-42a0-b38d-a0872c13fb0e" />
 
 ## 📚 Requirements
 ```
@@ -139,7 +138,7 @@ streamlit
 ## 👤 Author
 **Ibrahim Mohamed**  
 📧 Email: ibrahim.06.dev@gmail.com  
-🔗 LinkedIn: [[Your LnkedIn](https://www.linkedin.com/in/ibrahim-mohamed-211-)](#)
+🔗 LinkedIn: [[Ibrahim Mohamed](https://www.linkedin.com/in/ibrahim-mohamed-211-)](#)
 
 ---
 
