@@ -105,7 +105,7 @@ streamlit run App/app.py
 ## 📊 Results Snapshot
 | Model                 | Accuracy | Precision | Recall | F1-score |
 |-----------------------|----------|-----------|--------|----------|
-| Logistic Regression   | 0.82     | 0.78      | 0.90   | 0.84     |
+| Logistic Regression   | 0.82     | 0.78      | 0.93   | 0.84     |
 | Random Forest         | 0.85     | 0.80      | 0.88   | 0.84     |
 | XGBoost               | 0.86     | 0.81      | 0.89   | 0.85     |
 | Voting Classifier     | 0.87     | 0.83      | 0.88   | 0.85     |
