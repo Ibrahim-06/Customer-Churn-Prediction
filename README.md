@@ -97,8 +97,9 @@ streamlit run App/app.py
 
 ---
 
-## 📹 Demo Video
-> 🎥 **[Watch Demo Video](#)**  
+## 📹 Demo 
+>  <img width="3770" height="2122" alt="Streamlit" src="https://github.com/user-attachments/assets/76042d3d-63dc-4e83-9485-b5d395534509" />
+
 
 ---
 
@@ -118,6 +119,7 @@ streamlit run App/app.py
 - **features.pkl** → List of feature names after preprocessing
 
 ---
+<img width="3770" height="2122" alt="Streamlit" src="https://github.com/user-attachments/assets/c9cc5baf-a7d6-42a0-b38d-a0872c13fb0e" />
 
 ## 📚 Requirements
 ```
