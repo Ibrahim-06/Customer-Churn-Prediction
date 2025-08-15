@@ -97,7 +97,7 @@ streamlit run App/app.py
 
 ---
 
-## 📹 Demo 
+## 📹 Streamlit (UI)
 >  <img width="3770" height="2122" alt="Streamlit" src="https://github.com/user-attachments/assets/76042d3d-63dc-4e83-9485-b5d395534509" />
 
 
@@ -138,7 +138,7 @@ streamlit
 ## 👤 Author
 **Ibrahim Mohamed**  
 📧 Email: ibrahim.06.dev@gmail.com  
-🔗 LinkedIn: [[Ibrahim Mohamed](https://www.linkedin.com/in/ibrahim-mohamed-211-)](#)
+🔗 LinkedIn: [[Ibrahim Mohamed](https://www.linkedin.com/in/ibrahim-mohamed-211-)]
 
 ---
 
