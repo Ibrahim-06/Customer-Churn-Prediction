@@ -2,7 +2,7 @@
 # 📊 Telco Customer Churn Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![Libraries](https://img.shields.io/badge/Libraries-pandas%2C%20scikit--learn%2C%20xgboost%2C%20imbalanced--learn-orange)
+![Libraries](https://img.shields.io/badge/Libraries-pandas%2C%20numpy%2C%20matplotlib%2C%20seaborn%2C%20scikit--learn%2C%20xgboost%2C%20imbalanced--learn%2C%20joblib%2C%20streamlit-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 📌 Overview
