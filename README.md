@@ -23,7 +23,7 @@ The dataset used is **Telco-Customer-Churn.csv**, containing customer demographi
 ├── Features/
 │   └── features.pkl
 ├── App/
-│   └── app.py          # Streamlit App for predictions
+│   └── app.py      
 ├── Notebook/
 │   └── churn_analysis.ipynb
 ├── README.md
